@@ -1,4 +1,4 @@
-### Hi there, I'm Akshit Mangotra - 👋
+### Hi there, I'm Akshit Mangotra - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
 
 #### I'm a Student and a Learner!!
 <!--
