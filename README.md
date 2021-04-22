@@ -1,6 +1,13 @@
 ### Hi there, I'm Akshit Mangotra - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
 
 #### I'm a Student and a Learner!!
+My hands are comfortable typing in :   
+| Python | C/C++ | JAVA | Kotlin |
+ | :---: | :---: | :---: | :---: | 
+
+
+### Technologies & Frameworks I have worked with : 
+
 <!--
 **Akshit6828/Akshit6828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Akshit6828&theme=react&show_icons=true)
