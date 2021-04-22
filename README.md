@@ -5,7 +5,6 @@ My hands are comfortable typing in :
 | Python | C/C++ | JAVA | Kotlin |
  | :---: | :---: | :---: | :---: | 
 
-![Akshit Mangotra LinkedIn](https://akshit6828.github.io/LinkedIn-Profile-Batch/)
 
 
 <!--
@@ -25,3 +24,4 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Akshit6828&theme=react&show_icons=true)
+![Anurag's github stats](https://github.com/Akshit6828/LinkedIn-Profile-Batch/blob/master/index.html)
