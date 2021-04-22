@@ -6,11 +6,11 @@ My hands are comfortable typing in :
  | :---: | :---: | :---: | :---: | 
 
 
-### Technologies & Frameworks I have worked with : 
+
 
 <!--
 **Akshit6828/Akshit6828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Technologies & Frameworks I have worked with : 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
