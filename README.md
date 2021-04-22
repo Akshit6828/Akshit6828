@@ -5,8 +5,7 @@ My hands are comfortable typing in :
 | Python | C/C++ | JAVA | Kotlin |
  | :---: | :---: | :---: | :---: | 
 
-
-
+ 
 <!--
 **Akshit6828/Akshit6828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Technologies & Frameworks I have worked with : 
@@ -23,4 +22,4 @@ Here are some ideas to get you started:
 
 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Akshit6828&theme=react&show_icons=true)
-![Anurag's github stats](https://github.com/Akshit6828/LinkedIn-Profile-Batch/index.html)
+![Akshit LinkedIn](https://linked-in-profile-batch-7oxc1cwu5-akshit6828.vercel.app/)
