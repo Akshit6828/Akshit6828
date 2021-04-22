@@ -5,7 +5,7 @@ My hands are comfortable typing in :
 | Python | C/C++ | JAVA | Kotlin |
  | :---: | :---: | :---: | :---: | 
 
-
+![](https://akshit6828.github.io/LinkedIn-Profile-Batch/)
 
 
 <!--
