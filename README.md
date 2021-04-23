@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Most Recent Project
+### Most Recent Project for GDSC Solution Challenge 2021 👨‍💻
 
 <a href="https://github.com/Akshit6828/Traverse-Indoor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshit6828&theme=react&repo=Traverse-Indoor" />
