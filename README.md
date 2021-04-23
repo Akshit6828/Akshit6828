@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Akshit6828&theme=react&show_icons=true)
 
-- I am constantly in a flow to update my readme.
