@@ -3,7 +3,7 @@
 #### I'm a Student and a Learner!!
 My hands are comfortable typing in :   
 | Python | C/C++ | JAVA | Kotlin |
- | :---: | :---: | :---: | :---: | 
+| :---:  | :---: | :---:| :-----:| 
 
  
 <!--
