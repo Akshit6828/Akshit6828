@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 </a>
 
 ### Contact Me 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AkshitMangotra?style=react)](https://twitter.com/intent/follow?screen_name=AkshitMangotra) 
-[![GitHub followers](https://img.shields.io/github/followers/Akshit6828?label=Follow&style=react)](https://github.com/Akshit6828) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/AkshitMangotra?style=social)](https://twitter.com/intent/follow?screen_name=AkshitMangotra) 
+[![GitHub followers](https://img.shields.io/github/followers/Akshit6828?label=Follow&style=social)](https://github.com/Akshit6828) 
