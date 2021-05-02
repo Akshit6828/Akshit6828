@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Akshit6828/Traverse-Indoor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshit6828&theme=react&repo=Traverse-Indoor" />
 </a>
+
+### Contact Me 
+[![Twitter Follow](https://img.shields.io/twitter/follow/AkshitMangotra?style=social)](https://twitter.com/intent/follow?screen_name=AkshitMangotra) 
+[![GitHub followers](https://img.shields.io/github/followers/Akshit6828?label=Follow&style=social)](https://github.com/Akshit6828) 
