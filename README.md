@@ -1,5 +1,5 @@
 
-<h1 align=left> Hi there, I'm Akshit Mangotra - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"></h1>
+<h1 align=center> Hi there, I'm Akshit Mangotra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"></h1>
 
 <h3 align="left"> Contact Me 💬</h3>
 
