@@ -12,7 +12,7 @@
 ``` 
 import DAD;
 import MOM;
-Class Akshit extends DAD implements MOM {
+Class Akshit {
   Akshit(){
     this->Education = "Prefinal Year CS Student from MIMIT MALOUT";
     this->Currently_working_on = "Android Developement" ;
