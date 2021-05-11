@@ -7,12 +7,25 @@
 [![Linkedin Badge](https://img.shields.io/badge/-AkshitMangotra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshit-mangotra/)](https://www.linkedin.com/in/akshit-mangotra/)
 <br />
 
-- 👨‍🎓 I'm a Prefinal Year Computer Science Student at Malout Institution of Management and Information Technology.
-- 🔭 I’m currently working on Android Development
-- 🌱 I’m currently learning Google Cloud
+#### 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖... 👨 
+#### 
+``` 
+import DAD;
+import MOM;
+Class Akshit extends DAD implements MOM {
+  Akshit(){
+    this->Education = "Prefinal Year CS Student from MIMIT MALOUT";
+    this->Currently_working_on = "Android Developement" ;
+    this->Currently_learning = "Machine Learning";
+    this->Need_for_motivation = "☕ Coffee"
+    this->Curious_about = "Artificial Intelligence";
+    this->Hobbies = "💻Coding | ✍️Writing_Poems | 😴 Sleeping "
+ }
 
+}
+```
 
-<h2 style="color:Tomato;" align =center> Tools and Technology I'm Fimiliar  </h2>
+<h2 style="color:Tomato;" align =center> Tools and Technology I'm Fimiliar </h2>
 <p align="center">
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50" />&emsp;  </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> &emsp;</a> 
@@ -32,6 +45,13 @@
 **Akshit6828/Akshit6828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Technologies & Frameworks I have worked with : 
 Here are some ideas to get you started:
+-  👨‍ 🎓 I'm a Prefinal Year Computer Science Student at Malout Institution of Management and Information Technology
+- 🔭 I’m currently working on Android Development
+- 🌱 I’m currently learning Google Cloud
+- ❤  I need ~~Motivation.~~ Coffee ✅ to keep me working
+
+|N   |I   |C  |K   |   |   |   |   |   |   |
+|--- |--- |---|--- |---|---|---|---|---|---|
 
 style="border:orange; border-width:5px; border-style:solid;"
 My hands are comfortable typing in :   
