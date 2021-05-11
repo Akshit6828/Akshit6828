@@ -10,18 +10,16 @@
 ### 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖... 👨 
 ### 
 ``` 
-import DAD;
-import MOM;
+import DAD_MOM;
 Class Akshit {
-  Akshit(){
-    this->Education = "Prefinal Year CS Student at MIMIT MALOUT";
-    this->Currently_working_on = "Android Developement" ;
-    this->Currently_learning = "Machine Learning";
-    this->Need_for_motivation = "☕ Coffee"
-    this->Curious_about = "Artificial Intelligence";
-    this->Hobbies = "💻Coding | ✍️Writing_Poems | 😴 Sleeping "
+  Akshit() {
+    this.Education = "Prefinal Year CS Student at MIMIT MALOUT";
+    this.Currently_working_on = "Android Developement" ;
+    this.Currently_learning = "Machine Learning";
+    this.Need_for_motivation = "☕ Coffee";
+    this.Curious_about = "Artificial Intelligence";
+    this.Hobbies = "💻Coding | ✍️Writing_Poems | 😴 Sleeping ";
  }
-
 }
 ```
 
