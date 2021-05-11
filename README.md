@@ -51,7 +51,6 @@ My hands are comfortable typing in :
 <p align="left" color="#FF0000">
    <h4 align ="left"> Most Recent Project for GDSC Solution Challenge 2021 👨‍💻</h4>
   <a href="https://github.com/Akshit6828/Traverse-Indoor">
-  
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshit6828&theme=react&repo=Traverse-Indoor" />&emsp; &emsp; &emsp; &emsp; &emsp;</a> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
