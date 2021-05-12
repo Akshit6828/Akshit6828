@@ -1,7 +1,7 @@
 
 <h1 align=center> 🅷🅸 🆃🅷🅴🆁🅴 , I'm Akshit Mangotra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"></h1>
 
-<h3 align="left"> Contact Me 💬</h3>
+<h3 align="left"> Connect With Me.. 💬</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-@AkshitMangotra-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AkshitMangotra)](https://twitter.com/AkshitMangotra) 
 [![Linkedin Badge](https://img.shields.io/badge/-AkshitMangotra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshit-mangotra/)](https://www.linkedin.com/in/akshit-mangotra/)
