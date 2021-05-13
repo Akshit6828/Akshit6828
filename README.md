@@ -1,15 +1,17 @@
+|♥  |   |   |W  |E  |L  |C  |O  |M  |E  |   |T  |O  |   |M  |Y  |   |P  |R  |O  |F  |I  |L  |E  |   |   |♥  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 <h1 align=center> 🅷🅸 🆃🅷🅴🆁🅴 , I'm Akshit Mangotra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"></h1>
 
-<h3 align="left"> Connect With Me.. 💬</h3>
+<h3 align="left"> Connect With Me 💬</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-@AkshitMangotra-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AkshitMangotra)](https://twitter.com/AkshitMangotra) 
 [![Linkedin Badge](https://img.shields.io/badge/-AkshitMangotra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshit-mangotra/)](https://www.linkedin.com/in/akshit-mangotra/)
 <br />
 
-<h3> 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖... 👨 </h3>
-
-### 
+<p align="left">
+  
+### 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖... 👨 
 ``` 
 import DAD_MOM;
 Class Akshit {
@@ -19,11 +21,12 @@ Class Akshit {
     this.Currently_learning = "Machine Learning";
     this.Need_for_motivation = "☕ Coffee" ;
     this.Curious_about = "Artificial Intelligence" ;
-    this.Hobbies = "💻Coding | ✍️Writing_Poems | 😴Sleeping" ;
+    this.Hobbies[] = {"💻Coding , ✍️Writing_Poems , 😴Sleeping"} ;
  }
 }
 ```
 
+</p>
 <h2 style="color:Tomato;" align =center> Tools and Technology I'm Fimiliar </h2>
 <p align="center">
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60" />&emsp;  </a> 
