@@ -59,6 +59,7 @@ style="border:orange; border-width:5px; border-style:solid;"
 My hands are comfortable typing in :   
 | **Python** | **C/C++** | **JAVA** | **Kotlin** |
 | :---------:| :--------:| :-------:| :---------:|
+<img align="left" alt="visitors" src="https://akshit6828.github.io/LinkedIn-Profile-Batch/"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -72,6 +73,5 @@ My hands are comfortable typing in :
 -->
 ![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=20)
 
-
-
+<img align="left" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=Akshit6828"> ( Just showing for knowing the count of my visitors *PS: I know this count is very less* ) 😅</img>
 
