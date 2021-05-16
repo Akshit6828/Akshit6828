@@ -73,5 +73,5 @@ My hands are comfortable typing in :
 -->
 ![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=20)
 
-<img align="left" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=Akshit6828"> ( Just showing for knowing the count of my visitors *PS: I know this count is very less* ) 😅</img>
+<img align="left" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=Akshit6828"> ( Just showing the visitors count for knowing who is watching me 👁️‍🗨️ . *PS: I know this count is very less* ) 😅</img>
 
