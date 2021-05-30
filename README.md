@@ -73,5 +73,5 @@ My hands are comfortable typing in :
 -->
 ![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=20)
 
-<img align="left" alt="visitors" src="https://camo.githubusercontent.com/e28885b39ff35186e141e3e4aa42a98a4f61140db9859ce3624ad501dc760aec/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d416b7368697436383238"> ( Just showing the visitors count for knowing who is watching me 👁️‍🗨️ . *PS: I know this count is very less* ) 😅</img>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Akshit6828.Akshit6828) ( Just showing the visitors count for knowing who is watching me 👁️‍🗨️ . *PS: I know this count is very less* ) 😅
 
