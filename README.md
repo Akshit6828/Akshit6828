@@ -71,7 +71,12 @@ My hands are comfortable typing in :
 - ⚡ Fun fact: ...
 
 -->
-![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=20)
+<p align="center">
+  
+![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=10)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Akshit6828.Akshit6828) ( Just showing the visitors count for knowing who is watching me 👁️‍🗨️ . *PS: I know this count is very less* ) 😅
+</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Akshit6828.Akshit6828)
