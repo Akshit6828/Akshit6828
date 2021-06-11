@@ -27,7 +27,7 @@ Class Akshit {
 ```
 
 </p>
-<h2 style="color:Tomato;" align =center> Tools and Technology I'm Fimiliar </h2>
+<h2 style="color:Tomato;" align =center> Technologies I Can Code</h2>
 <p align="center">
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50" />&emsp;  </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> &emsp;</a> 
