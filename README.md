@@ -22,8 +22,8 @@ Class Akshit {
     this.Currently_working_on = "Android Developement" ;
     this.Currently_learning = "Machine Learning";
     this.Curious_about = "Artificial Intelligence" ;
-    this.motivates_me[] =  " 🎶 Podcasts , 📝 Quotes " ;
-    this.Hobbies[] = {"💻Coding , ✍️Writing_Poems , 🎧 Spotify, 😴Sleeping, "} ; 
+    this.motivates_me[] = {" 🎶 Podcasts " , " 📝 Motivational_Quotes " } ;
+    this.Hobbies[] = {"💻Coding " , " ✍️Writing_Poems "," 🎧 Spotify "," 😴 Sleeping "} ; 
  }
 }
 ```
