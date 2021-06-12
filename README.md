@@ -89,13 +89,12 @@ My hands are comfortable typing in :
 
 <p align="center">
   
- <a href=""> <img src="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=0" alt="Github Stats"  width="420" height = "170"/></a><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=0" alt="Lang Stats"  width="420" height = "166.5"/></a> 
+ <a href=""> <img src="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=0" alt="Github Stats"  width="420" height = "170"/></a><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=0" alt="Lang Stats"  width="420" height = "166.5"/></a>
 </p>
 
 <p align ="center">
   
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Akshit6828.Akshit6828" width="100" height="25" align="center" /> 👁️ 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Akshit6828.Akshit6828" width="105" height="25" align="center" />
 
 </p>
-
 
