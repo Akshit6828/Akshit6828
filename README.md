@@ -5,11 +5,12 @@
 
 ![Akshit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Akshit6828&theme=react-dark&hide_border=true&area=true)
 
-<h3 align="left"> Connect With Me 💬</h3>
-
-[![Twitter Badge](https://img.shields.io/badge/-@AkshitMangotra-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AkshitMangotra)](https://twitter.com/AkshitMangotra) 
-[![Linkedin Badge](https://img.shields.io/badge/-AkshitMangotra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshit-mangotra/)](https://www.linkedin.com/in/akshit-mangotra/)
-<br />
+<p align="left">
+  
+<h2 align ="left" > <h3> Connect With Me 💬 ↙️ </h3> </h2>
+  
+<a href="https://twitter.com/AkshitMangotra" target="_blank" align="center"><img src="https://img.shields.io/badge/-@AkshitMangotra-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AkshitMangotra"/>  <a href="https://www.linkedin.com/in/akshit-mangotra/" target="_blank" align ="center"><img src="https://img.shields.io/badge/-AkshitMangotra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshit-mangotra/"/><h2/>
+</p>
 
 <p align="left">
   
@@ -27,9 +28,10 @@ Class Akshit {
  }
 }
 ```
-
 </p>
-<h2 style="color:Tomato;" align =center> Technologies I Can Code</h2>
+  
+<br />
+<h2 style="color:Tomato;" align =center> 🔽 Technologies I Can Code 🔽 </h2>
 <p align="center">
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50" />&emsp;  </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> &emsp;</a> 
@@ -76,6 +78,12 @@ My hands are comfortable typing in :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 </p>
+
+
+[![Twitter Badge](https://img.shields.io/badge/-@AkshitMangotra-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AkshitMangotra)](https://twitter.com/AkshitMangotra) 
+[![Linkedin Badge](https://img.shields.io/badge/-AkshitMangotra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshit-mangotra/)](https://www.linkedin.com/in/akshit-mangotra/)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Akshit6828.Akshit6828) 
 -->
   
 
@@ -84,4 +92,10 @@ My hands are comfortable typing in :
  <a href=""> <img src="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=0" alt="Github Stats"  width="420" height = "170"/></a><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=0" alt="Lang Stats"  width="420" height = "166.5"/></a> 
 </p>
 
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Akshit6828.Akshit6828)
+<p align ="center">
+  
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Akshit6828.Akshit6828" width="100" height="25" align="center" /> 👁️ 
+
+</p>
+
+
