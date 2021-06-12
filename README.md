@@ -72,13 +72,18 @@ My hands are comfortable typing in :
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react-dark&hide_border=true&area=true)
--->
-<p align="center">
-  
 ![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=10)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+-->
+  
+
+<p align="center">
+  
+ <a href="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=0"> <img src="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=0" alt="Github Stats"  width="475" height = "170"/> </a> 
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=0"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=0" alt="git"  width="475" height = "170" /> </a> 
+  
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Akshit6828.Akshit6828)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Akshit6828.Akshit6828)
