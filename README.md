@@ -23,7 +23,7 @@ Class Akshit {
     this.Currently_learning = "Machine Learning";
     this.Need_for_motivation = "☕ Coffee" ;
     this.Curious_about = "Artificial Intelligence" ;
-    this.Hobbies[] = {"💻Coding , ✍️Writing_Poems , 😴Sleeping"} ;
+    this.Hobbies[] = {"💻Coding , ✍️Writing_Poems , 🎵 Spotify, 😴Sleeping, "} ; 
  }
 }
 ```
