@@ -3,6 +3,31 @@
 
 <h1 align=center> 🅷🅸 🆃🅷🅴🆁🅴 , I'm Akshit Mangotra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"></h1>
 
+<h2 style="color:Tomato;" align =center> 🔽 Technologies I Can Code 🔽 </h2>
+<p align="center">
+<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50" />&emsp;  </a> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> &emsp;</a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> &emsp;</a> 
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> 
+  &emsp; </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>&emsp; </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> &emsp; </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> &emsp; </a> 
+<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/> &emsp;</a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&emsp; </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> &emsp; </a> <h1> </h1>
+</p>
+
+
+
+  
+
+<p align="center">
+  
+ <a href=""> <img src="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=0" alt="Github Stats"  width="420" height = "170"/></a><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=0" alt="Lang Stats"  width="420" height = "166.5"/></a>
+</p>
+
+
 ![Akshit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Akshit6828&theme=react-dark&hide_border=true&area=true)
 
 <p align="left">
@@ -31,19 +56,11 @@ Class Akshit {
 </p>
   
 <br />
-<h2 style="color:Tomato;" align =center> 🔽 Technologies I Can Code 🔽 </h2>
-<p align="center">
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50" />&emsp;  </a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> &emsp;</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> &emsp;</a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> 
-  &emsp; </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>&emsp; </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> &emsp; </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> &emsp; </a> 
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/> &emsp;</a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&emsp; </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> &emsp; </a> <h1> </h1>
+
+<p align ="center">
+  
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Akshit6828.Akshit6828" width="105" height="25" align="center" />
+
 </p>
 
 
@@ -85,16 +102,3 @@ My hands are comfortable typing in :
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Akshit6828.Akshit6828) 
 -->
-  
-
-<p align="center">
-  
- <a href=""> <img src="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=0" alt="Github Stats"  width="420" height = "170"/></a><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=0" alt="Lang Stats"  width="420" height = "166.5"/></a>
-</p>
-
-<p align ="center">
-  
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Akshit6828.Akshit6828" width="105" height="25" align="center" />
-
-</p>
-
