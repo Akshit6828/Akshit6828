@@ -3,7 +3,7 @@
 
 <h1 align=center> 🅷🅸 🆃🅷🅴🆁🅴 , I'm Akshit Mangotra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"></h1>
 
-<h2 style="color:Tomato;" align =center> 🔽 Technologies I Can Code 🔽 </h2>
+<h2 align =center> 🔽 Technologies I Can Code 🔽 </h2>
 <p align="center">
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50" />&emsp;  </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> &emsp;</a> 
