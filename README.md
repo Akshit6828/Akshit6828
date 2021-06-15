@@ -4,7 +4,7 @@
 <h1 align=center> 🅷🅸 🆃🅷🅴🆁🅴 , I'm Akshit Mangotra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"></h1>
 
 <details>
-  <summary>⬅️ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖..... 🙋‍♂️ </summary>
+  <summary>⚡⬅️ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖..... 🙋‍♂️ </summary>
   <br/>
   
   ``` 
