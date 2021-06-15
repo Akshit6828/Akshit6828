@@ -2,6 +2,26 @@
 |---| --- | --- | --- | --- | --- | --- | --- |---| --- | --- |---| --- | --- |---| --- | --- | --- | --- | --- | --- | --- |---|
 
 <h1 align=center> 🅷🅸 🆃🅷🅴🆁🅴 , I'm Akshit Mangotra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"></h1>
+
+<details>
+  <summary>⬅️ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖..... 🙋‍♂️ </summary>
+  <br/>
+  
+  ``` 
+import DAD_MOM;
+Class Akshit {
+  Akshit() {
+    this.Education = " Prefinal Year CS Student at MIMIT MALOUT " ;
+    this.Currently_working_on = " Android Developement " ;
+    this.Curious_about = "  Machine Learning" ;
+    this.Enjoy = " 🤝 Contributing to Open Source ";
+    this.Motivates_me[] = {" 🎶 Podcasts " , " 📝 Motivational_Quotes " } ;
+    this.Hobbies[] = {" 💻Coding " ," 🤔 Problem Solving" , " ✍️Writing_Poems "," 🎧 Spotify "," 😴 Sleeping "} ; 
+ }
+}
+```
+ </details>
+
 <h3 align =center> 🔽 Technologies I Can Code 🔽 </h3>
 <p align="center">
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50" />&emsp;  </a> 
@@ -17,10 +37,6 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> &emsp; </a> <h1> </h1>
 </p>
 
-
-
-  
-
 <p align="center">
   
  <a href=""> <img src="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=15" alt="Github Stats"  width="420" height = "170"/></a><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=15" alt="Lang Stats"  width="420" height = "166.5"/></a>
@@ -34,24 +50,6 @@
 <h2 align ="left" > <h3> Connect With Me 💬 ↙️ </h3> </h2>
   
 <a href="https://twitter.com/AkshitMangotra" target="_blank" align="center"><img src="https://img.shields.io/badge/-@AkshitMangotra-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AkshitMangotra"/>  <a href="https://www.linkedin.com/in/akshit-mangotra/" target="_blank" align ="center"><img src="https://img.shields.io/badge/-AkshitMangotra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshit-mangotra/"/>  <a href="mailto:amishasahu328@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&width=80" /></a>
-</p>
-
-<p align="left">
-  
-### 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖... 🙎‍♂️
-``` 
-import DAD_MOM;
-Class Akshit {
-  Akshit() {
-    this.Education = "Prefinal Year CS Student at MIMIT MALOUT" ;
-    this.Currently_working_on = "Android Developement" ;
-    this.Currently_learning = "Machine Learning";
-    this.Curious_about = "Artificial Intelligence" ;
-    this.motivates_me[] = {" 🎶 Podcasts " , " 📝 Motivational_Quotes " } ;
-    this.Hobbies[] = {"💻Coding " , " ✍️Writing_Poems "," 🎧 Spotify "," 😴 Sleeping "} ; 
- }
-}
-```
 </p>
   
 <br />
