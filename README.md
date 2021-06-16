@@ -1,4 +1,4 @@
-<h2 align=center> 🅷🅸 🆃🅷🅴🆁🅴 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"></h2>
+<h3 align=center> 🅷🅸 🆃🅷🅴🆁🅴 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"></h3>
 
 |♥  |**W**|**E**|**L**|**C**|**O**|**M**|**E**|   |**T**|**O**|   |**M**|**Y**|   |**P**|**R**|**O**|**F**|**I**|**L**|**E**| ♥  |
 |---| --- | --- | --- | --- | --- | --- | --- |---| --- | --- |---| --- | --- |---| --- | --- | --- | --- | --- | --- | --- |---|
@@ -35,7 +35,7 @@ Class Akshit {
 
 <p align="center">
   
-<a href=""> <img src="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=0" alt="Github Stats"  width="420" height = "170"/></a><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=0" alt="Lang Stats"  width="420" height = "166.5"/></a>
+<a href=""> <img src="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=0" alt="Github Stats"  width="400" height = "170"/></a><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=0" alt="Lang Stats"  width="400" height = "164.5"/></a>
 </p>
 
 ```
@@ -81,21 +81,8 @@ SQL OF MY LIFE...
 
 <!--
 **Akshit6828/Akshit6828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Technologies & Frameworks I have worked with : 
-Here are some ideas to get you started:
--  👨‍ 🎓 I'm a Prefinal Year Computer Science Student at Malout Institution of Management and Information Technology
-- 🔭 I’m currently working on Android Development
-- 🌱 I’m currently learning Google Cloud
-- ❤  I need ~~Motivation.~~ Coffee ✅ to keep me working
-
-|N   |I   |C  |K   |   |   |   |   |   |   |
-|--- |--- |---|--- |---|---|---|---|---|---|
-
-style="border:orange; border-width:5px; border-style:solid;"
-My hands are comfortable typing in :   
-| **Python** | **C/C++** | **JAVA** | **Kotlin** |
-| :---------:| :--------:| :-------:| :---------:|
 <img align="left" alt="visitors" src="https://akshit6828.github.io/LinkedIn-Profile-Batch/"/>
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -105,18 +92,13 @@ My hands are comfortable typing in :
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 ![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react-dark&hide_border=true&area=true)
 ![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=10)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 </p>
-
-
-[![Twitter Badge](https://img.shields.io/badge/-@AkshitMangotra-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AkshitMangotra)](https://twitter.com/AkshitMangotra) 
-[![Linkedin Badge](https://img.shields.io/badge/-AkshitMangotra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshit-mangotra/)](https://www.linkedin.com/in/akshit-mangotra/)
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Akshit6828.Akshit6828) 
-  
 
 // -------------------------     Tools and Technology Icons
 <h3 align =center> 🔽 Technologies I Can Code 🔽 </h3>
