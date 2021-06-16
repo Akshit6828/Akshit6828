@@ -26,9 +26,10 @@ Class Akshit {
 <h3 align =center> 🔽 Technologies I Can Code 🔽 </h3>
 <p align="center">
   
+  
 |**LANGUAGES**|![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logoWidth=30&logo=C%2B%2B)|![Java](https://img.shields.io/badge/JAVA-f00000.svg?style=flat-square&logoWidth=30&logo=java)|![Python](https://img.shields.io/badge/-PYTHON-3673A5?style=flat-square&logo=python&logoColor=white&logoWidth=30)|![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&logoWidth=30)|![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white&logoWidth=30)|![Kotlin](https://img.shields.io/badge/-KOTLIN(Learning)-26272B?style=flat-square&logo=Kotlin&logoWidth=30)|
 |---|---|---|---|---|---|---|
-  |**DATABASES**|![Firebase](https://img.shields.io/badge/FIREBASE-F7BE00.svg?style=flat-square&logo=firebase&logoColor=white&logoWidth=30)|![MySQL](https://img.shields.io/badge/MYSQL-255278.svg?style=flat-square&logo=mysql&logoColor=white&logoWidth=30)&nbsp;|![SQlite](https://img.shields.io/badge/-SQLITE-05122A?style=flat-square&logo=sqlite&logoColor=A8B9CC&logoWidth=30)| --- | --- | --- | --- |
+  |**DATABASES**|![Firebase](https://img.shields.io/badge/FIREBASE-F7BE00.svg?style=flat-square&logo=firebase&logoColor=white&logoWidth=30)|![MySQL](https://img.shields.io/badge/MYSQL-255278.svg?style=flat-square&logo=mysql&logoColor=white&logoWidth=30)|![SQlite](https://img.shields.io/badge/-SQLITE-05122A?style=flat-square&logo=sqlite&logoColor=A8B9CC&logoWidth=30)| --- | --- | --- | --- |
 |---|---|---|---|---|---|---|
   ![Android](https://img.shields.io/badge/ANDROID-%0769AD.svg?style=flat-square&logo=Android&logoColor=white&logoWidth=30)
   ![Git](https://img.shields.io/badge/-GIT-05122A?style=flat-square&logo=git&logoWidth=30)
