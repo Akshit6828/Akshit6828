@@ -35,12 +35,11 @@ Class Akshit {
 ![Firebase](https://img.shields.io/badge/firebase-%23ED7A00.svg?style=flat&logo=firebase&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
-  
 </p>
 
 <p align="left">
   
- <a href=""> <img src="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=15" alt="Github Stats"  width="420" height = "170"/></a><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=15" alt="Lang Stats"  width="420" height = "166.5"/></a>
+ <a href=""> <img src="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=15" alt="Github Stats"  width="400" height = "170"/></a><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=15" alt="Lang Stats"  width="400" height = "164.5"/></a>
 </p>
 
 
