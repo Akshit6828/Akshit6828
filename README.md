@@ -1,17 +1,19 @@
+<h2 align=center> 🅷🅸 🆃🅷🅴🆁🅴 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"></h2>
+
 |♥  |**W**|**E**|**L**|**C**|**O**|**M**|**E**|   |**T**|**O**|   |**M**|**Y**|   |**P**|**R**|**O**|**F**|**I**|**L**|**E**| ♥  |
 |---| --- | --- | --- | --- | --- | --- | --- |---| --- | --- |---| --- | --- |---| --- | --- | --- | --- | --- | --- | --- |---|
 
-<h1 align=center> 🅷🅸 🆃🅷🅴🆁🅴 , I'm Akshit Mangotra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"></h1>
+
 
 <details>
-  <summary>⚡⬅️ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖..... 🙋‍♂️ </summary>
+  <summary>⚡⬅️ 𝕂𝕟𝕠𝕨 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖..... 🙋‍♂️ </summary>
   <br/>
   
   ``` 
 import DAD_MOM;
 Class Akshit {
   Akshit() {
-    this.Education = " Prefinal Year CS Student at MIMIT MALOUT " ;
+    this.Education = " Prefinal Year CSE Student at MIMIT MALOUT " ;
     this.Currently_working_on = " Android Developement " ;
     this.Curious_about = "  Machine Learning" ;
     this.Enjoy = " 🤝 Contributing to Open Source ";
@@ -21,29 +23,45 @@ Class Akshit {
 }
 ```
  </details>
+ <br/>
+<h3 align ="center"> ▁ ▂ ▄ ▅ ▆ ▇ █ _____ 𝙼𝚈 𝚃𝙾𝙿【5】 𝚃𝙴𝙲𝙷𝙽𝙾𝙻𝙾𝙶𝙸𝙴𝚂_____ █ ▇ ▆ ▅ ▄ ▂ ▁  </h3> 
 
-<h3 align =center> 🔽 Technologies I Can Code 🔽 </h3>
 <p align="center">
-
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp; 
-![Android](https://img.shields.io/badge/android-%0769AD.svg?style=flat&logo=android&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Firebase](https://img.shields.io/badge/firebase-%23ED7A00.svg?style=flat&logo=firebase&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
-![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
+  
+|![C++](https://img.shields.io/badge/-DS_Algorithms(C++)-00599C?style=flat-square&logoWidth=30&logo=C%2B%2B)|![Java](https://img.shields.io/badge/-JAVA-f00000.svg?style=flat-square&logoWidth=30&logo=java)|![Android](https://img.shields.io/badge/-ANDROID-%0769AD.svg?style=flat-square&logo=Android&logoColor=white&logoWidth=30)|![Github](https://img.shields.io/badge/-GITHUB-000000?style=flat-square&logo=github&logoWidth=30)|![Firebase](https://img.shields.io/badge/-FIREBASE-F7BE00.svg?style=flat-square&logo=firebase&logoColor=white&logoWidth=10)|![Loading](https://img.shields.io/badge/-Adding_More_._._._._.-26272B?style=flat-square&logoWidth=60)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 </p>
 
-<p align="left">
+
+<p align="center">
   
- <a href=""> <img src="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=15" alt="Github Stats"  width="400" height = "170"/></a><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=15" alt="Lang Stats"  width="400" height = "164.5"/></a>
+<a href=""> <img src="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=0" alt="Github Stats"  width="420" height = "170"/></a><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=0" alt="Lang Stats"  width="420" height = "166.5"/></a>
+</p>
+
+```
+SQL OF MY LIFE...
+➡️  SELECT 【✩】 
+    FROM【﻿ＭＹ　ＴＥＣＨ　ＳＴＡＣＫ】 
+    GROUP BY 【﻿ＣＡＴＥＧＯＲＩＥＳ】 
+    WHERE STARTING_CODING = 【﻿２０１９】 ;
+```
+`↘️ Output Below`
+
+<p align="center">
+  
+  
+|**LANGUAGES**|![C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logoWidth=30&logo=C%2B%2B)|![Java](https://img.shields.io/badge/JAVA-f00000.svg?style=flat-square&logoWidth=30&logo=java)|![Python](https://img.shields.io/badge/-PYTHON-3673A5?style=flat-square&logo=python&logoColor=white&logoWidth=30)|![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&logoWidth=40)|![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white&logoWidth=30)|![Kotlin](https://img.shields.io/badge/-Kotlin(Learning)-26272B?style=flat-square&logo=Kotlin&logoWidth=30)|
+|:---:|:---:|:---:|---|---|---|---|
+|**DATABASES**|![Firebase](https://img.shields.io/badge/FIREBASE-F7BE00.svg?style=flat-square&logo=firebase&logoColor=white&logoWidth=10)|![MySQL](https://img.shields.io/badge/MYSQL-255278.svg?style=flat-square&logo=mysql&logoColor=white&logoWidth=20)|![SQlite](https://img.shields.io/badge/-SQLITE-08364D?style=flat-square&logo=sqlite&logoColor=A8B9CC&logoWidth=30)|![](https://img.shields.io/badge/Cassandra(Basics)-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=white)|![Loading](https://img.shields.io/badge/-Loading_More..-26272B?style=flat-square&logo=SQL&logoWidth=30)|
+|**MISCELLANEOUS**|![Android](https://img.shields.io/badge/ANDROID-%0769AD.svg?style=flat-square&logo=Android&logoColor=white&logoWidth=30)|![Git](https://img.shields.io/badge/-GIT-05122A?style=flat-square&logo=git&logoWidth=30) |![Github](https://img.shields.io/badge/-GITHUB-000000?style=flat-square&logo=github&logoWidth=30)|![Loading](https://img.shields.io/badge/-Loading_More..-26272B?style=flat-square&logo=SQL&logoWidth=30)|
+  
+  
+
 </p>
 
 
 ![Akshit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Akshit6828&theme=react-dark&hide_border=true&area=true)
+
 
 <p align="left">
   
@@ -99,6 +117,8 @@ My hands are comfortable typing in :
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Akshit6828.Akshit6828) 
   
+
+// -------------------------     Tools and Technology Icons
 <h3 align =center> 🔽 Technologies I Can Code 🔽 </h3>
 <p align="center">
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50" />&emsp;  </a> 
@@ -113,5 +133,13 @@ My hands are comfortable typing in :
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&emsp; </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> &emsp; </a> <h1> </h1>
 </p>
+
+// ------------------ Language and Github Stats Parallely with Reduced Size.
+<p align="center">
+  
+<a href=""> <img src="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=0" alt="Github Stats"  width="420" height = "170"/></a><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=0" alt="Lang Stats"  width="420" height = "166.5"/></a>
+</p>
+
+
 
 -->
