@@ -32,6 +32,7 @@ Class Akshit {
 |:---:|:---:|:---:|:---:|:---:|:---:|
 </p>
 
+
 <p align="center">
   
 <a href=""> <img src="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=0" alt="Github Stats"  width="420" height = "170"/></a><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=0" alt="Lang Stats"  width="420" height = "166.5"/></a>
@@ -55,6 +56,7 @@ SQL OF MY LIFE...
 |**MISCELLANEOUS**|![Android](https://img.shields.io/badge/ANDROID-%0769AD.svg?style=flat-square&logo=Android&logoColor=white&logoWidth=30)|![Git](https://img.shields.io/badge/-GIT-05122A?style=flat-square&logo=git&logoWidth=30) |![Github](https://img.shields.io/badge/-GITHUB-000000?style=flat-square&logo=github&logoWidth=30)|![Loading](https://img.shields.io/badge/-Loading_More..-26272B?style=flat-square&logo=SQL&logoWidth=30)|
   
   
+
 </p>
 
 
