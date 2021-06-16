@@ -38,7 +38,7 @@ Class Akshit {
   
 </p>
 
-<p align="center">
+<p align="left">
   
  <a href=""> <img src="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=15" alt="Github Stats"  width="420" height = "170"/></a><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=15" alt="Lang Stats"  width="420" height = "166.5"/></a>
 </p>
