@@ -24,7 +24,11 @@ Class Akshit {
 ```
  </details>
  <br/>
-<h3 align ="center"> ▁ ▂ ▄ ▅ ▆ ▇ █ _____ 𝙼𝚈 𝚃𝙾𝙿【5】 𝚃𝙴𝙲𝙷𝙽𝙾𝙻𝙾𝙶𝙸𝙴𝚂_____ █ ▇ ▆ ▅ ▄ ▂ ▁  </h3> 
+<h4 align ="center">
+
+ 
+  🔽 ▁▁ ▂ ▄ ▅ ▆ ▇  _____ 𝙼𝚈 𝚃𝙾𝙿 𝟻 𝚂𝙺𝙸𝙻𝙻𝚂 _____  ▇ ▆ ▅ ▄ ▂ ▁▁ 🔽
+</h4> 
 
 <p align="center">
   
@@ -115,6 +119,11 @@ Here are some ideas to get you started:
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&emsp; </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> &emsp; </a> <h1> </h1>
 </p>
+
+// ---------- Single Column Table 
+  
+|     |
+|:---:|
 
 // ------------------ Language and Github Stats Parallely with Reduced Size.
 <p align="center">
