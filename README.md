@@ -1,7 +1,7 @@
 |♥  |**W**|**E**|**L**|**C**|**O**|**M**|**E**|   |**T**|**O**|   |**M**|**Y**|   |**P**|**R**|**O**|**F**|**I**|**L**|**E**| ♥  |
 |---| --- | --- | --- | --- | --- | --- | --- |---| --- | --- |---| --- | --- |---| --- | --- | --- | --- | --- | --- | --- |---|
 
-<h1 align=center> 🅷🅸 🆃🅷🅴🆁🅴 , I'm Akshit Mangotra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"></h1>
+<h2 align=center> 🅷🅸 🆃🅷🅴🆁🅴 , I'm Akshit Mangotra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"></h2>
 
 <details>
   <summary>⚡⬅️ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖..... 🙋‍♂️ </summary>
@@ -21,20 +21,20 @@ Class Akshit {
 }
 ```
  </details>
-
+ 
+ 
 <h3 align =center> 🔽 Technologies I Can Code 🔽 </h3>
 <p align="center">
-
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp; 
-![Android](https://img.shields.io/badge/android-%0769AD.svg?style=flat&logo=android&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Firebase](https://img.shields.io/badge/firebase-%23ED7A00.svg?style=flat&logo=firebase&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
-![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
+  
+|**LANGUAGES**|![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logoWidth=30&logo=C%2B%2B)|![Java](https://img.shields.io/badge/JAVA-f00000.svg?style=flat-square&logoWidth=30&logo=java)|![Python](https://img.shields.io/badge/-PYTHON-3673A5?style=flat-square&logo=python&logoColor=white&logoWidth=30)|![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&logoWidth=30)|![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white&logoWidth=30)|![Kotlin](https://img.shields.io/badge/-KOTLIN(Learning)-26272B?style=flat-square&logo=Kotlin&logoWidth=30)|
+|---|---|---|---|---|---|---|
+  |**DATABASES**|![Firebase](https://img.shields.io/badge/FIREBASE-F7BE00.svg?style=flat-square&logo=firebase&logoColor=white&logoWidth=30)|![MySQL](https://img.shields.io/badge/MYSQL-255278.svg?style=flat-square&logo=mysql&logoColor=white&logoWidth=30)&nbsp;|![SQlite](https://img.shields.io/badge/-SQLITE-05122A?style=flat-square&logo=sqlite&logoColor=A8B9CC&logoWidth=30)| --- | --- | --- | --- |
+|---|---|---|---|---|---|---|
+  ![Android](https://img.shields.io/badge/ANDROID-%0769AD.svg?style=flat-square&logo=Android&logoColor=white&logoWidth=30)
+  ![Git](https://img.shields.io/badge/-GIT-05122A?style=flat-square&logo=git&logoWidth=30)
+![Firebase](https://img.shields.io/badge/FIREBASE-F7BE00.svg?style=flat-square&logo=firebase&logoColor=white&logoWidth=30)&nbsp;
+![MySQL](https://img.shields.io/badge/MYSQL-255278.svg?style=flat-square&logo=mysql&logoColor=white&logoWidth=30)&nbsp;
+![SQlite](https://img.shields.io/badge/-SQLITE-05122A?style=flat-square&logo=sqlite&logoColor=A8B9CC&logoWidth=30)&nbsp;
   
 </p>
 
