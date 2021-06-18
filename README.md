@@ -1,4 +1,4 @@
-<h3 align=center> 🅷🅸 🆃🅷🅴🆁🅴 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"></h3>
+<h2 align=center> 🅷🅸 🆃🅷🅴🆁🅴 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"></h2>
 
 |♥  |**W**|**E**|**L**|**C**|**O**|**M**|**E**|   |**T**|**O**|   |**M**|**Y**|   |**P**|**R**|**O**|**F**|**I**|**L**|**E**| ♥  |
 |---| --- | --- | --- | --- | --- | --- | --- |---| --- | --- |---| --- | --- |---| --- | --- | --- | --- | --- | --- | --- |---|
