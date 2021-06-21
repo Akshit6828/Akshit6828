@@ -48,7 +48,7 @@ SQL OF MY LIFE...
 ➡️  SELECT 【✩】 
     FROM【﻿ＭＹ　ＴＥＣＨ　ＳＴＡＣＫ】 
     GROUP BY 【﻿ＣＡＴＥＧＯＲＩＥＳ】 
-    WHERE STARTING_CODING = 【﻿２０１９】 ;
+    WHERE STARTED_CODING = 【﻿２０１９】 ;
 ```
 `↘️ Output Below`
 
