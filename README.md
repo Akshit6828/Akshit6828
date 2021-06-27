@@ -45,7 +45,7 @@ Class Akshit {
 
 ```
 SQL OF MY LIFE...
-➡️  SELECT ✩  
+➡️  SELECT ﻿ ✩ 
     FROM ﻿ ＭＹ_ＴＥＣＨ_ＳＴＡＣＫ 
     GROUP BY ﻿ ＣＡＴＥＧＯＲＩＥＳ 
     WHERE STARTED_CODING = ﻿ ２０１９ ;
