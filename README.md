@@ -45,10 +45,10 @@ Class Akshit {
 
 ```
 SQL OF MY LIFE...
-➡️  SELECT 【✩】 
-    FROM【﻿ＭＹ　ＴＥＣＨ　ＳＴＡＣＫ】 
-    GROUP BY 【﻿ＣＡＴＥＧＯＲＩＥＳ】 
-    WHERE STARTED_CODING = 【﻿２０１９】 ;
+➡️  SELECT ✩  
+    FROM ﻿ ＭＹ_ＴＥＣＨ_ＳＴＡＣＫ 
+    GROUP BY ﻿ ＣＡＴＥＧＯＲＩＥＳ 
+    WHERE STARTED_CODING = ﻿ ２０１９ ;
 ```
 `↘️ Output Below`
 
