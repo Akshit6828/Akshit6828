@@ -8,7 +8,7 @@
 <details>
   <summary>⚡⬅️ 𝕂𝕟𝕠𝕨 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖..... 🙋‍♂️ </summary>
   <br/>
-  
+ 
   ``` 
 import DAD_MOM;
 Class Akshit {
@@ -16,7 +16,7 @@ Class Akshit {
     this.Education = " Prefinal Year CSE Student at MIMIT MALOUT " ;
     this.Currently_working_on = " Android Developement " ;
     this.Curious_about = "  Machine Learning" ;
-    this.Enjoy = " 🤝 Contributing to Open Source ";
+    this.Enjoy[] =  { "🤝 Contributing to Open Source " , " 🤔 Problem Solving  ", " ⚽ Playing FIFA "  };
     this.Motivates_me[] = {" 🎶 Podcasts " , " 📝 Motivational_Quotes " } ;
     this.Hobbies[] = {" 💻Coding " ," 🤔 Problem Solving" , " ✍️Writing_Poems "," 🎧 Spotify "," 😴 Sleeping "} ; 
  }
