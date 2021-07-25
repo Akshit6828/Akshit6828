@@ -65,8 +65,6 @@ SQL OF MY LIFE...
 </p>
 
 
-![Akshit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Akshit6828&theme=react-dark&hide_border=true&area=true)
-
 
 <p align="left">
   
@@ -85,6 +83,9 @@ SQL OF MY LIFE...
 
 
 <!--
+![Akshit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Akshit6828&theme=react-dark&hide_border=true&area=true)
+
+
 **Akshit6828/Akshit6828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align="left" alt="visitors" src="https://akshit6828.github.io/LinkedIn-Profile-Batch/"/>
 Here are some ideas to get you started:
