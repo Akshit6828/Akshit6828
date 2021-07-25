@@ -64,7 +64,7 @@ SQL OF MY LIFE...
 
 </p>
 
-
+![Akshit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Akshit6828&theme=react-dark&hide_border=true&area=true)
 
 <p align="left">
   
