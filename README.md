@@ -70,7 +70,7 @@ SQL OF MY LIFE...
   
 <h2 align ="left" > <h3> Connect With Me 💬 ↙️ </h3> </h2>
   
-<a href="https://twitter.com/AkshitMangotra" target="_blank" align="center"><img src="https://img.shields.io/badge/-@AkshitMangotra-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AkshitMangotra"/>  <a href="https://www.linkedin.com/in/akshit-mangotra/" target="_blank" align ="center"><img src="https://img.shields.io/badge/-AkshitMangotra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshit-mangotra/"/>  <a href="mailto:amishasahu328@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&width=80" /></a>
+<a href="https://twitter.com/AkshitMangotra" target="_blank" align="center"><img src="https://img.shields.io/badge/-@AkshitMangotra-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AkshitMangotra"/>  <a href="https://www.linkedin.com/in/akshit-mangotra/" target="_blank" align ="center"><img src="https://img.shields.io/badge/-AkshitMangotra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshit-mangotra/"/>  <a href="mailto:akshitmangotra@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&width=80" /></a>
 </p>
   
 <br />
