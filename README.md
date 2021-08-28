@@ -82,7 +82,7 @@ SQL OF MY LIFE...
 
 </p>
 
-[Resume_link]:https://drive.google.com/file/d/1tjy8Qw4qB_nBfGpZAHImg4Koe_IS_xPt/view?usp=sharing
+[Resume_link]:https://drive.google.com/file/d/1NpvBl3rbVPdkHgWBB6iGMC8FGda6b061/view?usp=sharing
 
 <!--
 ![Akshit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Akshit6828&theme=react-dark&hide_border=true&area=true)
