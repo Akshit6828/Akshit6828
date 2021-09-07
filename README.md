@@ -25,6 +25,8 @@ Class Akshit {
  </details>
 
 📌 [My Resume][Resume_link] 🔗
+
+📌 [My CV][CV_link] 🔗
 <br>
 <h4 align ="center">
 
@@ -83,6 +85,7 @@ SQL OF MY LIFE...
 </p>
 
 [Resume_link]:https://drive.google.com/file/d/1NpvBl3rbVPdkHgWBB6iGMC8FGda6b061/view?usp=sharing
+[CV_link]:https://drive.google.com/file/d/1cYlLImdiI1V9iG90nABia9ejiWAdDS-R/view?usp=sharing
 
 <!--
 ![Akshit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Akshit6828&theme=react-dark&hide_border=true&area=true)
