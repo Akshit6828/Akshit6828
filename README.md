@@ -84,7 +84,7 @@ SQL OF MY LIFE...
 
 </p>
 
-[Resume_link]:https://drive.google.com/file/d/1NpvBl3rbVPdkHgWBB6iGMC8FGda6b061/view?usp=sharing
+[Resume_link]:https://drive.google.com/file/d/1hK_TJYDxneK7YjgS5L1MyxTA44NRZ4i1/view?usp=sharing
 [CV_link]:https://drive.google.com/file/d/1IWvtfayjxt-0rK_RUWNBU3KMwvcg94cV/view?usp=sharing
 
 <!--
