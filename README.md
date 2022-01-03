@@ -69,6 +69,11 @@ SQL OF MY LIFE...
 
 ![Akshit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Akshit6828&theme=react-dark&hide_border=true&area=true)
 
+
+<details>
+ <summary><b>🏆 Github Achievements</b></summary>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akshit6828&margin-w=5" alt="Akshit6828" /></a> </p>
+</details>
 <p align="left">
   
 <h2 align ="left" > <h3> Connect With Me 💬 ↙️ </h3> </h2>
