@@ -71,7 +71,7 @@ SQL OF MY LIFE...
 
 
 <details>
- <summary><b>🏆 Github Achievements</b></summary>
+ <summary>🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬 </summary>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akshit6828&margin-w=5" alt="Akshit6828" /></a> </p>
 </details>
 <p align="left">
@@ -89,7 +89,7 @@ SQL OF MY LIFE...
 
 </p>
 
-[Resume_link]:https://drive.google.com/file/d/1hK_TJYDxneK7YjgS5L1MyxTA44NRZ4i1/view?usp=sharing
+[Resume_link]:https://drive.google.com/file/d/1GFzXqQDXYMoTLcT2X4KHkyQa4bnHZ3ts/view?usp=sharing
 [CV_link]:https://drive.google.com/file/d/1IWvtfayjxt-0rK_RUWNBU3KMwvcg94cV/view?usp=sharing
 
 <!--
