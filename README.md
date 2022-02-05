@@ -13,7 +13,7 @@
 import DAD_MOM;
 Class Akshit {
   Akshit() {
-    this.Education = " Prefinal Year CSE Student at MIMIT MALOUT " ;
+    this.Education = " Final Year CSE Student at MIMIT MALOUT " ;
     this.Currently_working_on = " Android Developement " ;
     this.Curious_about = "  Machine Learning" ;
     this.Enjoy[] =  { "🤝 Contributing to Open Source " , " 🤔 Problem Solving  ", " ⚽ Playing FIFA "  };
