@@ -89,7 +89,7 @@ SQL OF MY LIFE...
 
 </p>
 
-[Resume_link]:https://drive.google.com/file/d/1GFzXqQDXYMoTLcT2X4KHkyQa4bnHZ3ts/view?usp=sharing
+[Resume_link]:https://drive.google.com/file/d/1t-iQpP5WMqx8FDmttVcc99ZPpcOx0W_k/view?usp=sharing
 [CV_link]:https://drive.google.com/file/d/1IWvtfayjxt-0rK_RUWNBU3KMwvcg94cV/view?usp=sharing
 
 <!--
