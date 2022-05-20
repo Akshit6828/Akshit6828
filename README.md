@@ -27,6 +27,8 @@ Class Akshit {
 📌 [My Resume][Resume_link] 🔗
 
 📌 [My CV][CV_link] 🔗
+
+
 <br>
 <h4 align ="center">
 
@@ -61,8 +63,8 @@ SQL OF MY LIFE...
 |**LANGUAGES**|![C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logoWidth=30&logo=C%2B%2B)|![Java](https://img.shields.io/badge/JAVA-f00000.svg?style=flat-square&logoWidth=30&logo=java)|![Python](https://img.shields.io/badge/-PYTHON-3673A5?style=flat-square&logo=python&logoColor=white&logoWidth=30)|![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&logoWidth=40)|![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white&logoWidth=30)|![Kotlin](https://img.shields.io/badge/-Kotlin(Learning)-26272B?style=flat-square&logo=Kotlin&logoWidth=30)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**DATABASES**|![Firebase](https://img.shields.io/badge/FIREBASE-F7BE00.svg?style=flat-square&logo=firebase&logoColor=white&logoWidth=10)|![MySQL](https://img.shields.io/badge/MYSQL-255278.svg?style=flat-square&logo=mysql&logoColor=white&logoWidth=10)|![SQlite](https://img.shields.io/badge/-SQLITE-08364D?style=flat-square&logo=sqlite&logoColor=A8B9CC&logoWidth=10)|![](https://img.shields.io/badge/Cassandra(Basics)-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=white&logoWidth=10)|![Loading](https://img.shields.io/badge/-Loading_More..-26272B?style=flat-square&logo=SQL&logoWidth=10)|
-|**MISCELLANEOUS**|![Android](https://img.shields.io/badge/ANDROID-%0769AD.svg?style=flat-square&logo=Android&logoColor=white&logoWidth=30)|![Git](https://img.shields.io/badge/-GIT-05122A?style=flat-square&logo=git&logoWidth=30) |![Github](https://img.shields.io/badge/-GITHUB-000000?style=flat-square&logo=github&logoWidth=30)|![Loading](https://img.shields.io/badge/-Loading_More..-26272B?style=flat-square&logo=SQL&logoWidth=30)|
-  
+|**PLATFORMS**|![Android](https://img.shields.io/badge/ANDROID-%0769AD.svg?style=flat-square&logo=Android&logoColor=white&logoWidth=30)|![Git](https://img.shields.io/badge/-GIT-05122A?style=flat-square&logo=git&logoWidth=30) |![Github](https://img.shields.io/badge/-GITHUB-000000?style=flat-square&logo=github&logoWidth=30)|![Loading](https://img.shields.io/badge/-Loading_More..-26272B?style=flat-square&logo=SQL&logoWidth=30)|
+|**CLOUD PLATFORMS**|![GOOGLE CLOUD](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
   
 
 </p>
@@ -91,6 +93,7 @@ SQL OF MY LIFE...
 
 [Resume_link]:https://drive.google.com/file/d/1UUZvt2VdhyMZhwMSc013Lgpih9ehVOia/view?usp=sharing
 [CV_link]:https://drive.google.com/file/d/1IWvtfayjxt-0rK_RUWNBU3KMwvcg94cV/view?usp=sharing
+[LC_link]:https://leetcode.com/Akki23/
 
 <!--
 ![Akshit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Akshit6828&theme=react-dark&hide_border=true&area=true)
