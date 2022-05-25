@@ -13,9 +13,9 @@
 import DAD_MOM;
 Class Akshit {
   Akshit() {
-    this.Education = " Final Year CSE Student at MIMIT MALOUT " ;
-    this.Currently_working_on = " Android Developement " ;
-    this.Curious_about = "  Machine Learning" ;
+    this.Education = " 2022 CSE Undergrad from Punjab Technical University" ;
+    this.Currently_working_on = "Google Cloud" ;
+    this.Curious_about = "Machine Learning" ;
     this.Enjoy[] =  { "🤝 Contributing to Open Source " , " 🤔 Problem Solving  ", " ⚽ Playing FIFA "  };
     this.Motivates_me[] = {" 🎶 Podcasts " , " 📝 Motivational_Quotes " } ;
     this.Hobbies[] = {" 💻Coding " ," 🤔 Problem Solving" , " ✍️Writing_Poems "," 🎧 Spotify "," 😴 Sleeping "} ; 
