@@ -38,7 +38,7 @@ Class Akshit {
 
 <p align="center">
   
-|![C++](https://img.shields.io/badge/-DS_Algorithms(C++)-00599C?style=flat-square&logoWidth=30&logo=C%2B%2B)|![Java](https://img.shields.io/badge/-JAVA-f00000.svg?style=flat-square&logoWidth=30&logo=java)|![Android](https://img.shields.io/badge/-ANDROID-%0769AD.svg?style=flat-square&logo=Android&logoColor=white&logoWidth=30)|![MySQL](https://img.shields.io/badge/MYSQL-255278.svg?style=flat-square&logo=mysql&logoColor=white&logoWidth=30)|![Firebase](https://img.shields.io/badge/-FIREBASE-F7BE00.svg?style=flat-square&logo=firebase&logoColor=white&logoWidth=10)|![Loading](https://img.shields.io/badge/-Adding_6th_._._._._.-26272B?style=flat-square&logoWidth=60)|
+|![C++](https://img.shields.io/badge/-DS_Algorithms(C++)-00599C?style=flat-square&logoWidth=30&logo=C%2B%2B)|![Java](https://img.shields.io/badge/-JAVA-f00000.svg?style=flat-square&logoWidth=30&logo=java)|![Android](https://img.shields.io/badge/-ANDROID-%0769AD.svg?style=flat-square&logo=Android&logoColor=white&logoWidth=30)|![GOOGLE CLOUD](https://img.shields.io/badge/GOOGLECLOUD-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)|![MySQL](https://img.shields.io/badge/MySQL-255278.svg?style=flat-square&logo=mysql&logoColor=white&logoWidth=30)|![Loading](https://img.shields.io/badge/-Adding_6th_._._._._.-26272B?style=flat-square&logoWidth=60)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 </p>
 
