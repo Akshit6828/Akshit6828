@@ -1,4 +1,4 @@
-<h2 align=center> 🅷🅸 🆃🅷🅴🆁🅴 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"></h2>
+<h2 align=center> 🅷🅸 🆃🅷🅴🆁🅴 </h2>
 
 |♥  |**W**|**E**|**L**|**C**|**O**|**M**|**E**|   |**T**|**O**|   |**M**|**Y**|   |**P**|**R**|**O**|**F**|**I**|**L**|**E**| ♥  |
 |---| --- | --- | --- | --- | --- | --- | --- |---| --- | --- |---| --- | --- |---| --- | --- | --- | --- | --- | --- | --- |---|
@@ -146,6 +146,8 @@ Here are some ideas to get you started:
 <a href=""> <img src="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=0" alt="Github Stats"  width="420" height = "170"/></a><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=0" alt="Lang Stats"  width="420" height = "166.5"/></a>
 </p>
 
+
+<h2 align=center> 🅷🅸 🆃🅷🅴🆁🅴 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="1px"></h2>
 
 
 -->
