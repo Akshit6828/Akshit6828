@@ -24,11 +24,6 @@ Class Akshit {
 ```
  </details>
 
-📌 [My Resume][Resume_link] 🔗
-
-📌 [My CV][CV_link] 🔗
-
-
 <br>
 <h4 align ="center">
 
@@ -90,10 +85,6 @@ SQL OF MY LIFE...
 ### 😃 Happy Coding to My <img src="https://visitor-badge.laobi.icu/badge?page_id=Akshit6828.Akshit6828" width="105" height="25" align="center" /> 🌻 😃
 
 </p>
-
-[Resume_link]:https://drive.google.com/file/d/1UUZvt2VdhyMZhwMSc013Lgpih9ehVOia/view?usp=sharing
-[CV_link]:https://drive.google.com/file/d/1IWvtfayjxt-0rK_RUWNBU3KMwvcg94cV/view?usp=sharing
-[LC_link]:https://leetcode.com/Akki23/
 
 <!--
 ![Akshit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Akshit6828&theme=react-dark&hide_border=true&area=true)
