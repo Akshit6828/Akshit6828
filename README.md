@@ -31,7 +31,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Core Competencies**
 - **Architecture**: Component Design, Code Splitting, Lazy Loading
@@ -44,11 +43,15 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### **Programming & CS Fundamentals**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-4ECDC4?style=for-the-badge&logo=algolia&logoColor=white)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-FFD93D?style=for-the-badge&logo=cisco&logoColor=black)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-6C5CE7?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
@@ -70,17 +73,17 @@
 ### 🧬 **Gene Reader** - *Android Genetic Analysis App*
 - **Tech Stack**: Android, Java, Firebase
 - **Features**: Genetic analysis, disease prediction, medication reminders
-- [📱 View Project](https://github.com/Akshit6828/gene-reader)
+- [📱 View Project](https://github.com/Akshit6828/Traverse-Indoor)
 
 ### ⚙️ **C++ Lexical Analyzer** - *CLI Programming Tool*
 - **Tech Stack**: C++, CLI
 - **Features**: Complete lexical analysis for C++ language
-- [🔧 View Project](https://github.com/Akshit6828/cpp-lexical-analyzer)
+- [🔧 View Project](https://github.com/Akshit6828/Lexical-Analyzer)
 
-### 🛒 **Grocery Store Manager** - *Android Business App*
-- **Tech Stack**: Android, SQLite
-- **Features**: Product management, stock tracking, inventory control
-- [📱 View Project](https://github.com/Akshit6828/grocery-store)
+### 🛒 **Multi Theme Text Editor** - *Java Standalone Applications*
+- **Tech Stack**: Java,Multi-threading, Java Applets
+- **Features**: Customizable Theme Based Text Editor, Save File, Open File, Select, Copy, Paste, Select All, Delete All.
+- [📱 View Project](https://github.com/Akshit6828/Text-Editor)
 
 ---
 
