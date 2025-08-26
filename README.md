@@ -68,7 +68,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Personal Projects
 
 ### 🧬 **Gene Reader** - *Android Genetic Analysis App*
 - **Tech Stack**: Android, Java, Firebase
