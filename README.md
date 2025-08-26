@@ -1,145 +1,139 @@
-<h2 align=center> 🅷🅸 🆃🅷🅴🆁🅴 </h2>
+# Hi there, I'm Akshit Mangotra! 👋
 
-|♥  |**W**|**E**|**L**|**C**|**O**|**M**|**E**|   |**T**|**O**|   |**M**|**Y**|   |**P**|**R**|**O**|**F**|**I**|**L**|**E**| ♥  |
-|---| --- | --- | --- | --- | --- | --- | --- |---| --- | --- |---| --- | --- |---| --- | --- | --- | --- | --- | --- | --- |---|
+## 🚀 Frontend Engineer | 3+ Years Experience | React & Angular Specialist
 
-<br>
+**Currently building scalable, SEO-optimized web applications at Jio Platforms Limited**
 
-<details>
-  <summary>⚡⬅️ 𝕂𝕟𝕠𝕨 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖..... 🙋‍♂️ </summary>
-  <br/>
- 
-  ``` 
-import DAD_MOM;
-Class Akshit {
-  Akshit() {
-    this.CurrentCompany = "Jio Platforms Limited" ;
-    this.Currently_working_on = "ReactJS and Angular" ;
-    this.Education = " 2022 CSE Undergrad from Punjab Technical University" ;
-    this.Curious_about = "Software Developement" ;
-    this.Enjoy[] =  { "🤝 Contributing to Open Source " , " 🤔 Problem Solving  ", " ⚽ Playing FIFA "  };
-    this.Motivates_me[] = {" 🎶 Podcasts " , " 📝 Motivational_Quotes " } ;
-    this.Hobbies[] = {" 💻Coding " ," 🤔 Problem Solving" , " ✍️Writing_Poems "," 🎧 Spotify "," 😴 Sleeping "} ; 
- }
-}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akshit--mangotra-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-mangotra/)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-success?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1T3uNZWyGn-X9oxWUZiQ9aTu-bzjWC5yq/view?usp=sharing)
+[![Email](https://img.shields.io/badge/Email-akshitmangotra%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akshitmangotra@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@AkshitMangotra-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AkshitMangotra)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Akki23-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/Akki23)
+
+---
+
+## 💼 Professional Experience
+
+**Software Engineer - 1** at **Jio Platforms Limited** *(Oct 2022 - Present)*
+- 🏗️ **Jio Campaigns (React + Redux)**: Built core features for JioCX bulk email platform handling **20M+ emails/day**
+- 📊 **Custom Analytics SDK**: Developed JavaScript SDK with Web Workers and offline tracking (similar to Google Analytics)
+- ⚡ **Performance Optimization**: Reduced load times by **80%** through lazy loading and code-splitting
+- 👥 **Team Leadership**: Led migration of Admin Portal from Angular to React with a team of 3 developers
+- 📱 **Mobile-First Development**: Increased mobile report access by **15%** with responsive design
+
+> 📄 **[View Full Resume](https://drive.google.com/file/d/1T3uNZWyGn-X9oxWUZiQ9aTu-bzjWC5yq/view?usp=sharing)** | **[Download Resume](https://drive.google.com/file/d/1T3uNZWyGn-X9oxWUZiQ9aTu-bzjWC5yq/view?usp=sharing)**
+
+## 🛠️ Tech Stack & Expertise
+
+### **Frontend Technologies**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Core Competencies**
+- **Architecture**: Component Design, Code Splitting, Lazy Loading
+- **Performance**: SEO Optimization, SSR, Web Performance
+- **Quality**: Accessibility (WCAG), Testing with Jest
+- **Tools**: Webpack, Vite, Babel, Git, Agile/Scrum
+
+### **Backend & Cloud**
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### **Programming & CS Fundamentals**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-4ECDC4?style=for-the-badge&logo=algolia&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit6828&theme=react&hide_border=true&background=0D1117" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧬 **Gene Reader** - *Android Genetic Analysis App*
+- **Tech Stack**: Android, Java, Firebase
+- **Features**: Genetic analysis, disease prediction, medication reminders
+- [📱 View Project](https://github.com/Akshit6828/gene-reader)
+
+### ⚙️ **C++ Lexical Analyzer** - *CLI Programming Tool*
+- **Tech Stack**: C++, CLI
+- **Features**: Complete lexical analysis for C++ language
+- [🔧 View Project](https://github.com/Akshit6828/cpp-lexical-analyzer)
+
+### 🛒 **Grocery Store Manager** - *Android Business App*
+- **Tech Stack**: Android, SQLite
+- **Features**: Product management, stock tracking, inventory control
+- [📱 View Project](https://github.com/Akshit6828/grocery-store)
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 **React Certified** - HackerRank
+- 🥇 **Java Certified** - HackerRank  
+- 🎯 **Meta Frontend Developer** - Meta
+- 🚀 **Google Kick Start** Participant
+- 🔒 **Ethical Hacking** - Microsoft
+- 🏆 **Snackdown** - CodeChef Participant
+
+## 🌟 Open Source Contributions
+
+Contributing to the developer community:
+- **@organicmaps** - Open-source mapping solution
+- **@apache/accumulo** - Apache distributed database
+- **@Datastacks-Devs** - Data engineering tools
+- **@DevMan Open-Source** - Developer utilities
+
+---
+
+## 💡 What I'm Working On
+
+- 🔥 **Performance Optimization**: Exploring advanced React patterns and micro-frontends
+- 🎨 **Design Systems**: Building scalable component libraries
+- 📊 **Analytics**: Developing custom tracking solutions for enterprise applications
+- 🌐 **SEO & Accessibility**: Creating inclusive, search-optimized web experiences
+
+---
+
+## 📈 Professional Impact
+
+```javascript
+const akshitImpact = {
+  emailsProcessedDaily: "20M+",
+  performanceImprovement: "80% faster load times",
+  mobileEngagement: "+15% increase",
+  clientGrowth: "+30% acquisition",
+  teamMentorship: "10+ developers"
+};
 ```
- </details>
 
-<br>
-<h4 align ="center">
+---
 
- 
-  🔽 ▁▁ ▂ ▄ ▅ ▆ ▇  _____ 𝙼𝚈 𝚃𝙾𝙿 𝟻 𝚂𝙺𝙸𝙻𝙻𝚂 _____  ▇ ▆ ▅ ▄ ▂ ▁▁ 🔽
-</h4> 
+## 🎯 Let's Connect!
 
-<p align="center">
-  
-|![C++](https://img.shields.io/badge/-DS_Algorithms(C++)-00599C?style=flat-square&logoWidth=30&logo=C%2B%2B)|![Java](https://img.shields.io/badge/-JAVA-f00000.svg?style=flat-square&logoWidth=30&logo=java)|![Android](https://img.shields.io/badge/-ANDROID-%0769AD.svg?style=flat-square&logo=Android&logoColor=white&logoWidth=30)|![GOOGLE CLOUD](https://img.shields.io/badge/GOOGLECLOUD-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)|![MySQL](https://img.shields.io/badge/MySQL-255278.svg?style=flat-square&logo=mysql&logoColor=white&logoWidth=30)|![Loading](https://img.shields.io/badge/-Adding_6th_._._._._.-26272B?style=flat-square&logoWidth=60)|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-</p>
+Always excited to discuss **Frontend Architecture**, **Performance Optimization**, and **Developer Experience**!
 
+<div align="center">
 
-<p align="center">
-  
-<a href=""> <img src="https://github-readme-stats-akshit6828.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=0" alt="Github Stats"  width="400" height = "170"/></a><a href=""> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=0" alt="Lang Stats"  width="400" height = "164.5"/></a>
-</p>
+[![](https://visitcount.itsvg.in/api?id=Akshit6828&icon=0&color=0)](https://visitcount.itsvg.in)
 
-```
-SQL OF MY LIFE...
-➡️  SELECT ﻿ ✩ 
-    FROM ﻿ ＭＹ_ＴＥＣＨ_ＳＴＡＣＫ 
-    GROUP BY ﻿ ＣＡＴＥＧＯＲＩＥＳ 
-    WHERE STARTED_CODING = ﻿ ２０１９ ;
-```
-`↘️ Output Below`
+**Happy Coding!** 🚀
 
-<p align="center">
-  
-  
-|**LANGUAGES**|![C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logoWidth=30&logo=C%2B%2B)|![Java](https://img.shields.io/badge/JAVA-f00000.svg?style=flat-square&logoWidth=30&logo=java)|![Python](https://img.shields.io/badge/-PYTHON-3673A5?style=flat-square&logo=python&logoColor=white&logoWidth=30)|![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&logoWidth=40)|![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white&logoWidth=30)|![Kotlin](https://img.shields.io/badge/-Kotlin(Learning)-26272B?style=flat-square&logo=Kotlin&logoWidth=30)|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**DATABASES**|![Firebase](https://img.shields.io/badge/FIREBASE-F7BE00.svg?style=flat-square&logo=firebase&logoColor=white&logoWidth=10)|![MySQL](https://img.shields.io/badge/MYSQL-255278.svg?style=flat-square&logo=mysql&logoColor=white&logoWidth=10)|![SQlite](https://img.shields.io/badge/-SQLITE-08364D?style=flat-square&logo=sqlite&logoColor=A8B9CC&logoWidth=10)|![](https://img.shields.io/badge/Cassandra(Basics)-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=white&logoWidth=10)|![Loading](https://img.shields.io/badge/-Loading_More..-26272B?style=flat-square&logo=SQL&logoWidth=10)|
-|**PLATFORMS**|![Android](https://img.shields.io/badge/ANDROID-%0769AD.svg?style=flat-square&logo=Android&logoColor=white&logoWidth=30)|![Git](https://img.shields.io/badge/-GIT-05122A?style=flat-square&logo=git&logoWidth=30) |![Github](https://img.shields.io/badge/-GITHUB-000000?style=flat-square&logo=github&logoWidth=30)|![Loading](https://img.shields.io/badge/-Loading_More..-26272B?style=flat-square&logo=SQL&logoWidth=30)|
-|**CLOUD PLATFORMS**|![GOOGLE CLOUD](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-  
-
-</p>
-
-![Akshit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Akshit6828&theme=react-dark&hide_border=true&area=true)
-
-
-<details>
- <summary>🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬 </summary>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akshit6828&margin-w=5" alt="Akshit6828" /></a> </p>
-</details>
-<p align="left">
-  
-<h2 align ="left" > <h3> Connect With Me 💬 ↙️ </h3> </h2>
-  
-<a href="https://twitter.com/AkshitMangotra" target="_blank" align="center"><img src="https://img.shields.io/badge/-@AkshitMangotra-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AkshitMangotra"/>  <a href="https://www.linkedin.com/in/akshit-mangotra/" target="_blank" align ="center"><img src="https://img.shields.io/badge/-AkshitMangotra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshit-mangotra/"/>  <a href="mailto:akshitmangotra@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&width=80" /></a>  <a href="https://linktr.ee/AkshitMangotra" target="_blank"><img alt="Linktee" src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white"/>
-</p>
-  
-<br />
-
-<p align ="center">
-  
-### 😃 Happy Coding to My <img src="https://visitor-badge.laobi.icu/badge?page_id=Akshit6828.Akshit6828" width="105" height="25" align="center" /> 🌻 😃
-
-</p>
-
-<!--
-![Akshit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Akshit6828&theme=react-dark&hide_border=true&area=true)
-
-
-**Akshit6828/Akshit6828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img align="left" alt="visitors" src="https://akshit6828.github.io/LinkedIn-Profile-Batch/"/>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react-dark&hide_border=true&area=true)
-![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=10)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Akshit6828.Akshit6828) 
-
-// -------------------------     Tools and Technology Icons
-<h3 align =center> 🔽 Technologies I Can Code 🔽 </h3>
-<p align="center">
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50" />&emsp;  </a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> &emsp;</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> &emsp;</a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> 
-  &emsp; </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>&emsp; </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> &emsp; </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> &emsp; </a> 
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/> &emsp;</a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&emsp; </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> &emsp; </a> <h1> </h1>
-</p>
-
-// ---------- Single Column Table 
-  
-|     |
-|:---:|
-
-// ------------------ Language and Github Stats Parallely with Reduced Size.
-<p align="center">
-  
-<a href=""> <img src="https://github-readme-stats.vercel.app/api?username=Akshit6828&show_icons=true&theme=react&border_radius=0" alt="Github Stats"  width="420" height = "170"/></a><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit6828&layout=compact&theme=react&border_radius=0" alt="Lang Stats"  width="420" height = "166.5"/></a>
-</p>
-
-
-<h2 align=center> 🅷🅸 🆃🅷🅴🆁🅴 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="1px"></h2>
-
-
--->
+</div>
