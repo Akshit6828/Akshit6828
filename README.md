@@ -2,7 +2,7 @@
 
 ## 🚀 Frontend Engineer | 3+ Years Experience | React & Angular Specialist
 
-**Currently building scalable, SEO-optimized web applications at Jio Platforms Limited**
+**Currently building scalable, SEO-optimized web applications at Wiz**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akshit--mangotra-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-mangotra/)
 [![Resume](https://img.shields.io/badge/Resume-Download_PDF-success?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1T3uNZWyGn-X9oxWUZiQ9aTu-bzjWC5yq/view?usp=sharing)
@@ -14,7 +14,11 @@
 
 ## 💼 Professional Experience
 
-**Software Engineer - 1** at **Jio Platforms Limited** *(Oct 2022 - Present)*
+**Software Engineer - 2** at **Wizcommerce** *(Jan 2026 - Present)*
+- Built the Multi-PO feature for KAI (AI copilot), driving $100K revenue in 2 months and reducing order TAT by 90% via automated Email-toOrder workflows (AG Grid React UI).
+- Migrated analytics event tracking SDK from Mixpanel to an in-house platform, improving data ownership and saving $2.5K annually.
+
+**Software Engineer - 1** at **Jio Platforms Limited** *(Oct 2022 - Dec 2025)*
 - 🏗️ **Jio Campaigns (React + Redux)**: Built core features for JioCX bulk email platform handling **20M+ emails/day**
 - 📊 **Custom Analytics SDK**: Developed JavaScript SDK with Web Workers and offline tracking (similar to Google Analytics)
 - ⚡ **Performance Optimization**: Reduced load times by **80%** through lazy loading and code-splitting
